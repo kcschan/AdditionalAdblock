@@ -1,0 +1,42 @@
+!--按照一级域名首字母排序
+! Expires: 7 days (update frequency)
+!--1st-paryty analytics/ad click counter
+||analytics.caijing.com.cn^
+||count.chanet.com.cn^
+||click.union.jd.com^
+||count.ccidnet.com^
+||job.cnbeta.com^
+||msxiaobing.com^
+||qihoo.com^$third-party
+||qzs.qq.com^
+||stat.ccidnet.com^
+||whois.pconline.com.cn^
+!------sina
+||s.weibo.com^$script
+||beacon.sina.com.cn^
+||sso.sina.com.cn^
+||woocall.sina.com.cn^
+||interest.mix.sina.com.cn^
+||newspush.sinajs.cn^
+||tjs.sjs.sinajs.cn^$third-party
+!
+!--1st-paryt analytics running on 3rd-sites
+!------baidu
+||news.baidu.com^$third-party
+||share.baidu.com^
+!------sina
+||widget.weibo.com^$third-party
+!------tencent
+||connect.qq.com^$third-party
+||qzs.qq.com^
+||mat1.gtimg.com/app/opent/js/qshare_min.js
+!
+!--3rd-paryt analytics
+||sina.wrating.com^
+!
+!--3rd-paryt multi-useage/social analytics
+||baifendian.com^
+||bshare.cn^
+||huaban.com^$third-party
+||jiathis.com^
+||wumii.com^
