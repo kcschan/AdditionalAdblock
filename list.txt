@@ -36,6 +36,7 @@ g.tbcdn.cn/tb/fdc/xwj_heat.js
 ||int.dpool.sina.com.cn^
 ||blogtj.sinajs.cn^
 collect.js$domain=sina.com.cn
+||sinaimg.cn/cha/images/c.gif
 !------tencent
 ||btrace.qq.com^
 ||i.match.qq.com^
