@@ -31,6 +31,7 @@
 ||optaim.com^
 !------netease
 ||analytics.163.com^
+||ipservice.163.com^
 !
 !--1st-paryt analytics running on 3rd-sites
 !------baidu
