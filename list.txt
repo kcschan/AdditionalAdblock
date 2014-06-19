@@ -38,6 +38,8 @@ collect.js$domain=sina.com.cn
 ||ipservice.163.com^
 ||pr.163.com^
 ||ip.ws.126.net^
+!------microsoft
+||c.microsoft.com^
 !
 !--1st-paryt analytics running on 3rd-sites
 !------baidu
