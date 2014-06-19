@@ -24,6 +24,8 @@ g.tbcdn.cn/tb/fdc/xwj_heat.js
 ||gtms04.alicdn.com^$domain=taobao.com
 ||mmstat.com^
 ||simba.taobao.com^
+!------bing
+||c.bing.com^
 !------sina
 ||s.weibo.com^$script
 ||beacon.sina.com.cn^
