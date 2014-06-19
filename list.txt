@@ -14,9 +14,10 @@
 ||stat.ccidnet.com^
 ||whois.pconline.com.cn^
 !------alibaba
+||ald.taobao.com^
+||apollon.t.taobao.com^
 g.tbcdn.cn/s.gif
 g.tbcdn.cn/tb/fdc/xwj_heat.js
-||apollon.t.taobao.com^
 ||gtms01.alicdn.com^
 ||gtms02.alicdn.com^
 ||gtms03.alicdn.com^
