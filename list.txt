@@ -15,6 +15,10 @@
 ||whois.pconline.com.cn^
 !------alibaba
 g.tbcdn.cn/s.gif
+||apollon.t.taobao.com^
+||gtms01.alicdn.com^
+||gtms02.alicdn.com^
+||gtms03.alicdn.com^
 !------sina
 ||s.weibo.com^$script
 ||beacon.sina.com.cn^
