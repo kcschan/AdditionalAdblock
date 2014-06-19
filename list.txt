@@ -1,4 +1,6 @@
 !--按照一级域名首字母排序
+! Homepage: https://github.com/kcschan/AdditionalAdblock
+! Title: AdditionalAdblock
 ! Expires: 7 days (update frequency)
 !--1st-paryty analytics/ad click counter
 ||analytics.caijing.com.cn^
@@ -22,6 +24,7 @@
 ||tjs.sjs.sinajs.cn^$third-party
 ||int.dpool.sina.com.cn^
 ||blogtj.sinajs.cn^
+collect.js$domain=sina.com.cn
 !------tencent
 ||btrace.qq.com^
 ||i.match.qq.com^
