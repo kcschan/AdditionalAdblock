@@ -23,6 +23,7 @@
 ||int.dpool.sina.com.cn^
 !------tencent
 ||btrace.qq.com^
+||i.match.qq.com^
 !
 !--1st-paryt analytics running on 3rd-sites
 !------baidu
