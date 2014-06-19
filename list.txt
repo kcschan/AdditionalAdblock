@@ -22,6 +22,7 @@ g.tbcdn.cn/tb/fdc/xwj_heat.js
 ||gtms02.alicdn.com^
 ||gtms03.alicdn.com^
 ||gtms04.alicdn.com^
+||mmstat.com^
 ||simba.taobao.com^
 !------sina
 ||s.weibo.com^$script
