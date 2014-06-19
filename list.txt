@@ -20,6 +20,7 @@
 ||interest.mix.sina.com.cn^
 ||newspush.sinajs.cn^
 ||tjs.sjs.sinajs.cn^$third-party
+||int.dpool.sina.com.cn^
 !
 !--1st-paryt analytics running on 3rd-sites
 !------baidu
