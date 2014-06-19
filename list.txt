@@ -29,6 +29,8 @@
 ||txt.go.sohu.com/ip^$script
 ||ip.cms.sohu.com^$script
 ||optaim.com^
+!------netease
+||analytics.163.com^
 !
 !--1st-paryt analytics running on 3rd-sites
 !------baidu
