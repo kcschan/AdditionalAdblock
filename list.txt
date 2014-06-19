@@ -24,6 +24,8 @@
 !------tencent
 ||btrace.qq.com^
 ||i.match.qq.com^
+!------sohu
+||js.sohu.com/pv^$script
 !
 !--1st-paryt analytics running on 3rd-sites
 !------baidu
