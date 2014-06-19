@@ -45,7 +45,8 @@
 ||mat1.gtimg.com/app/opent/js/qshare_min.js
 !
 !--3rd-paryt analytics
-||sina.wrating.com^
+||wrating.com^
+wrating.js
 !
 !--3rd-paryt multi-useage/social analytics
 ||baifendian.com^
