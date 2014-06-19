@@ -18,10 +18,10 @@
 ||apollon.t.taobao.com^
 g.tbcdn.cn/s.gif
 g.tbcdn.cn/tb/fdc/xwj_heat.js
-||gtms01.alicdn.com^
-||gtms02.alicdn.com^
-||gtms03.alicdn.com^
-||gtms04.alicdn.com^
+||gtms01.alicdn.com^$domain~=tmall.com
+||gtms02.alicdn.com^$domain~=tmall.com
+||gtms03.alicdn.com^$domain~=tmall.com
+||gtms04.alicdn.com^$domain~=tmall.com
 ||mmstat.com^
 ||simba.taobao.com^
 !------sina
