@@ -26,6 +26,7 @@
 ||i.match.qq.com^
 !------sohu
 ||js.sohu.com/pv^$script
+||txt.go.sohu.com/ip^$script
 !
 !--1st-paryt analytics running on 3rd-sites
 !------baidu
