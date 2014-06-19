@@ -19,6 +19,7 @@ g.tbcdn.cn/s.gif
 ||gtms01.alicdn.com^
 ||gtms02.alicdn.com^
 ||gtms03.alicdn.com^
+||gtms04.alicdn.com^
 !------sina
 ||s.weibo.com^$script
 ||beacon.sina.com.cn^
