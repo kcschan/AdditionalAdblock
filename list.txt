@@ -46,7 +46,7 @@
 !
 !--3rd-paryt analytics
 ||wrating.com^
-wrating.js
+wrating.js|
 !
 !--3rd-paryt multi-useage/social analytics
 ||baifendian.com^
