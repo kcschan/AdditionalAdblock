@@ -20,6 +20,7 @@ g.tbcdn.cn/s.gif
 ||gtms02.alicdn.com^
 ||gtms03.alicdn.com^
 ||gtms04.alicdn.com^
+||simba.taobao.com^
 !------sina
 ||s.weibo.com^$script
 ||beacon.sina.com.cn^
