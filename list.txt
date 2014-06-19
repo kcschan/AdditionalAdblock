@@ -33,6 +33,7 @@
 ||analytics.163.com^
 ||ipservice.163.com^
 ||pr.163.com^
+||ip.ws.126.net^
 !
 !--1st-paryt analytics running on 3rd-sites
 !------baidu
