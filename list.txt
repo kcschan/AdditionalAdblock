@@ -13,6 +13,8 @@
 ||qzs.qq.com^
 ||stat.ccidnet.com^
 ||whois.pconline.com.cn^
+!------alibaba
+g.tbcdn.cn/s.gif
 !------sina
 ||s.weibo.com^$script
 ||beacon.sina.com.cn^
