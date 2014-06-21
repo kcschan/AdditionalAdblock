@@ -54,6 +54,8 @@ collect.js$domain=sina.com.cn
 ||ip.ws.126.net^
 !------microsoft
 ||c.microsoft.com^
+!------xunlei
+||stat.login.xunlei.com^$image
 !
 !--1st-paryt analytics running on 3rd-sites
 !------baidu
