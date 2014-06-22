@@ -24,8 +24,10 @@ g.tbcdn.cn/tb/fdc/xwj_heat.js
 ||gtms04.alicdn.com^$domain=taobao.com
 ||mmstat.com^
 ||simba.taobao.com^
+!------baidu
+||c.baidu.com^$image
 !------bing
-||c.bing.com^
+||c.bing.com^$image
 !------sina
 ||s.weibo.com^$script
 ||beacon.sina.com.cn^
