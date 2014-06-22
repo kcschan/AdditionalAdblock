@@ -55,6 +55,7 @@ collect.js$domain=sina.com.cn
 !------microsoft
 ||c.microsoft.com^
 ||c.live.com^
+||p.sfx.ms^$image
 !------xunlei
 ||stat.login.xunlei.com^$image
 !
