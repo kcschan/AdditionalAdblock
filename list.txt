@@ -45,6 +45,8 @@ collect.js$domain=sina.com.cn
 !------tencent
 ||btrace.qq.com^
 ||i.match.qq.com^
+!------discuz追踪
+||cp.discuz.qq.com^
 !------sohu
 ||js.sohu.com/pv^$script
 ||txt.go.sohu.com/ip^$script
