@@ -23,6 +23,7 @@ g.tbcdn.cn/tb/fdc/xwj_heat.js
 ||gtms03.alicdn.com^$domain=taobao.com
 ||gtms04.alicdn.com^$domain=taobao.com
 ||mmstat.com^
+!-------taobao直通车(佣金系统)
 ||simba.taobao.com^
 !------baidu
 ||c.baidu.com^$image
