@@ -33,7 +33,6 @@ g.tbcdn.cn/tb/fdc/xwj_heat.js
 ||s.weibo.com^$script
 ||beacon.sina.com.cn^
 ||beacon.sinauda.com^
-||sso.sina.com.cn^
 ||woocall.sina.com.cn^
 ||interest.mix.sina.com.cn^
 ||newspush.sinajs.cn^
