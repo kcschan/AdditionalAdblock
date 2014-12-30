@@ -1,0 +1,104 @@
+#1st-paryty analytics/ad click counter
+0.0.0.0 	analytics.caijing.com.cn
+0.0.0.0 	count.chanet.com.cn
+0.0.0.0 	click.union.jd.com
+0.0.0.0 	count.ccidnet.com
+0.0.0.0 	job.cnbeta.com
+0.0.0.0 	msxiaobing.com
+0.0.0.0 	stat.ccidnet.com
+0.0.0.0 	whois.pconline.com.cn
+#alibaba
+0.0.0.0 	ald.taobao.com
+0.0.0.0 	apollon.t.taobao.com
+0.0.0.0 	mmstat.com
+0.0.0.0 	ac.mmstat.com
+0.0.0.0 	gm.mmstat.com
+0.0.0.0 	go.mmstat.com
+0.0.0.0 	log.mmstat.com
+0.0.0.0 	tanx.com
+0.0.0.0 	cdn.tanx.com
+0.0.0.0 	p.tanx.com
+0.0.0.0 	atpanel.com
+0.0.0.0 	ac.atpanel.com
+#-taobao直通车(佣金系统)
+0.0.0.0 	simba.taobao.com
+0.0.0.0 	tmatch.simba.taobao.com
+0.0.0.0 	ald.taobao.com
+0.0.0.0 	apollon.t.taobao.com
+0.0.0.0 	tui.taobao.com
+0.0.0.0 	guang.taobao.com
+0.0.0.0 	amos.alicdn.com
+#baidu
+0.0.0.0 	cb.baidu.com
+0.0.0.0 	cbjs.baidu.com
+0.0.0.0 	pos.baidu.com
+0.0.0.0 	cpro.baidu.com
+0.0.0.0 	cpro.baidustatic.com
+0.0.0.0 	dup.baidustatic.com
+0.0.0.0 	hm.baidu.com
+0.0.0.0 	nsclick.baidu.com
+0.0.0.0 	eclick.baidu.com
+#sina
+0.0.0.0 	beacon.sina.com.cn
+0.0.0.0 	beacon.sinauda.com
+0.0.0.0 	woocall.sina.com.cn
+0.0.0.0 	interest.mix.sina.com.cn
+0.0.0.0 	newspush.sinajs.cn
+0.0.0.0 	int.dpool.sina.com.cn
+0.0.0.0 	blogtj.sinajs.cn
+#tencent
+0.0.0.0 	btrace.qq.com
+0.0.0.0 	i.match.qq.com
+#discuz追踪
+0.0.0.0 	cp.discuz.qq.com
+#sohu
+0.0.0.0 	ip.cms.sohu.com
+0.0.0.0 	optaim.com
+#netease
+0.0.0.0 	analytics.163.com
+0.0.0.0 	ipservice.163.com
+0.0.0.0 	pr.163.com
+0.0.0.0 	ip.ws.126.net
+#microsoft
+0.0.0.0 	c.microsoft.com
+0.0.0.0 	c.live.com
+#xunlei
+0.0.0.0 	stat.login.xunlei.com
+#
+#1st-paryt analytics running on 3rd-sites
+#baidu
+0.0.0.0 	share.baidu.com
+#sina
+0.0.0.0 	widget.weibo.com
+#tencent
+0.0.0.0 	connect.qq.com
+#
+#3rd-paryt analytics
+0.0.0.0 	wrating.com
+#
+#3rd-paryt multi-useage/social analytics
+0.0.0.0 	baifendian.com
+0.0.0.0 	bshare.cn
+0.0.0.0 	jiathis.com
+0.0.0.0 	wumii.com
+#
+#Push-service-that-is-not-GCM
+#百度推送
+0.0.0.0 	channel.api.duapp.com
+#百度移动统计
+0.0.0.0 	mtj.baidu.com
+#百度商桥API
+0.0.0.0 	hmobi.baidu.com
+0.0.0.0 	qiao.baidu.com
+#百度离线宝
+0.0.0.0 	lxb.baidu.com
+#终端适配api
+0.0.0.0 	openapi.baidu.com
+#Moplus API
+0.0.0.0 	m.baidu.com
+#腾讯信鸽API
+0.0.0.0 	openapi.xg.qq.com
+#小米推送
+0.0.0.0 	api.xmpush.xiaomi.com
+#极光推送API
+0.0.0.0 	api.jpush.cn
