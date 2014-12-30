@@ -102,3 +102,119 @@
 0.0.0.0 	api.xmpush.xiaomi.com
 #极光推送API
 0.0.0.0 	api.jpush.cn
+#gexin
+0.0.0.0		sdk.open.phone.igexin.com
+0.0.0.0		sdk.open.talk.igexin.com
+0.0.0.0		cm001.getui.igexin.com
+0.0.0.0		cm002.getui.igexin.com
+0.0.0.0		cm003.getui.igexin.com
+0.0.0.0		cm004.getui.igexin.com
+0.0.0.0		cm005.getui.igexin.com
+0.0.0.0		cm006.getui.igexin.com
+0.0.0.0		cm007.getui.igexin.com
+0.0.0.0		cm008.getui.igexin.com
+0.0.0.0		cmsres.qiniudn.com
+#umeng 
+0.0.0.0		au.umeng.co
+0.0.0.0		au.umeng.com
+0.0.0.0		oc.umeng.co
+0.0.0.0		oc.umeng.com
+0.0.0.0		alog.umeng.com
+0.0.0.0		alog.umeng.co
+0.0.0.0		feedback.umeng.com
+0.0.0.0		log.umsns.com
+0.0.0.0		www.umeng.com
+0.0.0.0		ex.umengcloud.com
+#crashlytics
+0.0.0.0		settings.crashlytics.com
+0.0.0.0		e.crashlytics.com
+0.0.0.0		www.googletagmanager.com
+0.0.0.0		heartbeat.mobvoi.com
+#flurry 
+0.0.0.0		data.flurry.com
+#parse 
+0.0.0.0		api.parse.com
+#tracking
+0.0.0.0		acount.pconline.com.cn
+0.0.0.0		adgeo.163.com
+0.0.0.0		analytics-union.sandai.net
+0.0.0.0		analytics-union.xunlei.com
+0.0.0.0		analytics.tv189.cn
+0.0.0.0		brand.sogou.com
+0.0.0.0		cdnlog.zhenai.com
+0.0.0.0		chinauma.net
+0.0.0.0		click.bokecc.com
+0.0.0.0		click.tianyaui.com
+0.0.0.0		count.enet.com.cn
+0.0.0.0		countpage.sznews.com
+0.0.0.0		data.xici.net
+0.0.0.0		dw.xcar.com.cn
+0.0.0.0		error.pixplug.in
+0.0.0.0		gdt.qq.com
+0.0.0.0		imedia.bokecc.com
+0.0.0.0		imp.zol.com.cn
+0.0.0.0		isdspeed.qq.com
+0.0.0.0		kkpgv2.xunlei.com
+0.0.0.0		l.ykimg.com
+0.0.0.0		log.daqi.com
+0.0.0.0		log.mtime.cn
+0.0.0.0		log.vdisk.cn
+0.0.0.0		log.zongheng.com
+0.0.0.0		msg.ettoday.net
+0.0.0.0		msg.iqiyi.com
+0.0.0.0		ranking.ynet.com
+0.0.0.0		record.kuai.xunlei.com
+0.0.0.0		referer.pixplug.in
+0.0.0.0		rs.sinajs.cn
+0.0.0.0		s.360.cn
+0.0.0.0		s.so.360.cn
+0.0.0.0		shrek.6.cn
+0.0.0.0		stat.baike.com
+0.0.0.0		stat.pchome.net
+0.0.0.0		stat.ws.126.net
+0.0.0.0		stat.zol.com.cn
+0.0.0.0		stats.autohome.com.cn
+0.0.0.0		tajs.qq.com
+0.0.0.0		tcss.qq.com
+0.0.0.0		tf.360.cn
+0.0.0.0		tongji.500wan.com
+0.0.0.0		xls.go.sohu.com
+0.0.0.0		media.admob.com
+0.0.0.0 	log.mmstat.com
+0.0.0.0 	data.flurry.com
+0.0.0.0 	ex.mobmore.com
+0.0.0.0 	ex.puata.info
+0.0.0.0 	s.sharesdk.com
+0.0.0.0 	up.sharesdk.com
+0.0.0.0 	api2.sharesdk.com
+0.0.0.0 	analy.qq.com
+0.0.0.0 	mna.qcloud.com
+0.0.0.0		log.cutt.com
+0.0.0.0		zhiyue.cutt.com
+0.0.0.0		appres.u.qiniudn.com
+0.0.0.0		qn.cutt.com
+#zhihu 
+0.0.0.0		analytics.zhihu.com
+#netease 
+0.0.0.0		m.analytics.126.net
+#google 
+0.0.0.0		googleads.g.doubleclick.net
+0.0.0.0		media.admob.com
+#thepaper 
+0.0.0.0		ad.thepaper.cn
+#wandoujia 
+0.0.0.0		adlist.wandoujia.com
+0.0.0.0		l.wandoujia.com
+0.0.0.0		vip.wandoujia.com
+#renren 
+0.0.0.0		graph.renren.com
+#connect_feixing 
+0.0.0.0		i.feixin.10086.cn
+#yxing 
+0.0.0.0		open.yxing.com
+#misc 
+0.0.0.0		ad.manhuabang.com
+0.0.0.0		u.talkingdata.net
+0.0.0.0		www.talkingdata.net
+0.0.0.0		m.app.uc.cn
+ 
