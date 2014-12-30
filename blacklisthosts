@@ -1,3 +1,4 @@
+#这个列表以阻止某些业务为先,可能会无视特定功能无法使用
 #1st-paryty analytics/ad click counter
 0.0.0.0 	analytics.caijing.com.cn
 0.0.0.0 	count.chanet.com.cn
